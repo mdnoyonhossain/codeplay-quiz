@@ -2,12 +2,13 @@ import React from 'react';
 import { useLoaderData } from 'react-router-dom';
 import QuizeQuestions from '../QuizeQuestions/QuizeQuestions';
 import './Quizes.css'
+import { toast } from 'react-toastify';
 
 const Quizes = () => {
     const quizes = useLoaderData().data;
     
     const handelCorrectAnswer = quiz => {
-        alert(quiz);
+        toast.success(`"Correct Answer: "${quiz}`, {autoClose: 5000})
     }
 
     return (
