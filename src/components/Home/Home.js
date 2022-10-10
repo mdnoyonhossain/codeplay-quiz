@@ -10,8 +10,8 @@ const Home = () => {
                     <div className="row gx-5 align-items-center justify-content-center">
                         <div className="col-lg-8 col-xl-7 col-xxl-6">
                             <div className="my-5 text-center text-xl-start">
-                                <h1 className="display-5 fw-bolder text-white mb-2">A Bootstrap 5 template for modern businesses</h1>
-                                <p className="lead fw-normal text-white-50 mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+                                <h1 className="display-5 fw-bolder text-white mb-2">The Prodigious eLearning for you</h1>
+                                <p className="lead fw-normal text-white-50 mb-4">Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                                 <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                                     <Link className="btn btn-outline-light btn-lg px-4" to="/blog">Learn More</Link>
                                 </div>
