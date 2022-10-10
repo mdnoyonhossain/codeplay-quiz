@@ -13,7 +13,7 @@ const Topic = () => {
                     </div>
                 </div>
                 <div className="row gx-5">
-                    <div className="col-lg-3 mb-5">
+                    <div className="col-lg-4 col-md-6 mb-5">
                         <div className="card h-100 shadow border-0">
                             <img className="card-img-top" src="https://dummyimage.com/600x350/ced4da/6c757d" alt="..." />
                                 <div className="card-body p-4">
@@ -34,7 +34,7 @@ const Topic = () => {
                                 </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 mb-5">
+                    <div className="col-lg-4 col-md-6 mb-5">
                         <div className="card shadow border-0">
                             <img className="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..."/>
                                 <div className="card-body p-4">
@@ -55,7 +55,7 @@ const Topic = () => {
                                 </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 mb-5">
+                    <div className="col-lg-4 col-md-6 mb-5">
                         <div className="card shadow border-0">
                             <img className="card-img-top" src="https://dummyimage.com/600x350/6c757d/343a40" alt="..."/>
                                 <div className="card-body p-4">
@@ -76,7 +76,7 @@ const Topic = () => {
                                 </div>
                         </div>
                     </div>
-                    <div className="col-lg-3 mb-5">
+                    <div className="col-lg-4 col-md-6 mb-5">
                         <div className="card shadow border-0">
                             <img className="card-img-top" src="https://dummyimage.com/600x350/ced4da/6c757d" alt="..." />
                                 <div className="card-body p-4">
