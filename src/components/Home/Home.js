@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Topics from '../Topics/Topics';
 
 const Home = () => {
@@ -12,8 +13,7 @@ const Home = () => {
                                 <h1 className="display-5 fw-bolder text-white mb-2">A Bootstrap 5 template for modern businesses</h1>
                                 <p className="lead fw-normal text-white-50 mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
                                 <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                                    <a className="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
-                                    <a className="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
+                                    <Link className="btn btn-outline-light btn-lg px-4" to="/blog">Learn More</Link>
                                 </div>
                             </div>
                         </div>
