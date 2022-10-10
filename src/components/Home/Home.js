@@ -1,5 +1,5 @@
 import React from 'react';
-import Topic from '../Topic/Topic';
+import Topics from '../Topics/Topics';
 
 const Home = () => {
     return (
@@ -21,7 +21,7 @@ const Home = () => {
                     </div>
                 </div>
             </header> 
-            <Topic></Topic>
+            <Topics></Topics>
         </div>
     );
 };

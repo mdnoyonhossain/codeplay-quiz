@@ -2,16 +2,16 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer class="bg-dark py-4 mt-auto">
-        <div class="container px-5">
-            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                <div class="col-auto"><div class="small m-0 text-white">Copyright © Your Website 2022</div></div>
-                <div class="col-auto">
-                    <a class="link-light small" href="#!">Privacy</a>
-                    <span class="text-white mx-1">·</span>
-                    <a class="link-light small" href="#!">Terms</a>
-                    <span class="text-white mx-1">·</span>
-                    <a class="link-light small" href="#!">Contact</a>
+        <footer className="bg-dark py-4 mt-auto">
+        <div className="container px-5">
+            <div className="row align-items-center justify-content-between flex-column flex-sm-row">
+                <div className="col-auto"><div className="small m-0 text-white">Copyright © Your Website 2022</div></div>
+                <div className="col-auto">
+                    <a className="link-light small" href="#!">Privacy</a>
+                    <span className="text-white mx-1">·</span>
+                    <a className="link-light small" href="#!">Terms</a>
+                    <span className="text-white mx-1">·</span>
+                    <a className="link-light small" href="#!">Contact</a>
                 </div>
             </div>
         </div>
