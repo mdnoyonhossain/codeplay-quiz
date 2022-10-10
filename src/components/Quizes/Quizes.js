@@ -8,7 +8,7 @@ const Quizes = () => {
     const quizes = useLoaderData().data;
     
     const handelCorrectAnswer = quiz => {
-        toast.success(`"Correct Answer: "${quiz}`, {autoClose: 5000})
+        toast.success(`Correct Answer: ${quiz}`, {autoClose: 5000})
     }
 
     return (
