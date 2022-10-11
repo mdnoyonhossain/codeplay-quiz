@@ -15,7 +15,7 @@ Get all quiz topics -> [Link](https://openapi.programming-hero.com/api/quiz)
 Get topic details by topic id -> [Link](https://openapi.programming-hero.com/api/quiz/${id})
 Example -> [Link](https://openapi.programming-hero.com/api/quiz/1)
 
-## Resources & Credits
+## Application Build
 1. Quize Web Application
 2. API Loading Top Topic
 3. Daynamic Router Quize Page
