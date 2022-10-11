@@ -4,13 +4,10 @@ e-Learning Platform for High Quality Codeplay Quiz Appliances at Extremely.
 
 
 ## Live Link
-Hosted in Netlify -> [CodePlay Quiz](https://shome-shop.netlify.app/)
+Hosted in Netlify -> [CodePlay Quiz](https://bucolic-pixie-bd4f4d.netlify.app/)
 
-## QUIZ API LINK:
 
-Documentation Link -> [Link](https://reactjs.org/docs/context.html#api)
-
-## React Router Dom v6.4 
+## React API & Router Dom v6.4 
 Get all quiz topics -> [Link](https://openapi.programming-hero.com/api/quiz)
 Get topic details by topic id -> [Link](https://openapi.programming-hero.com/api/quiz/${id})
 Example -> [Link](https://openapi.programming-hero.com/api/quiz/1)
